@@ -12,7 +12,7 @@ li{
 }
 .cb-slideshow:after { 
     content: '';
-    background: transparent url(../images/pattern.png) repeat top left; 
+    /*background: transparent url(../images/pattern.png) repeat top left; */
 }
 .cb-slideshow li span { 
     width: 100%;
